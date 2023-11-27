@@ -18,6 +18,9 @@ After data exploration and necessary data cleaning, we will re-label a subset of
 
 # File Instructions
 IMDB_Reaction_Tags_Predictor_Final.ipynb is the Jupyter Notebook file to run the final system.
+
 IMDB_Reaction_Tags_Predictor.ipynb is the Jupyter Notebook file to run our whole Text Analytics process.
+
 CSVs folder has the necessary csv files used in the 2 notebooks above.
+
 Readme.md file in CSVs folder has illustration on the csv files we used.
