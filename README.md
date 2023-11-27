@@ -1,4 +1,4 @@
-# IMDB-Review-Emotion_Rating-Predictor
+# IMDB-Reviews-Reaction-Tags-Predictor
 USC ISE 540 Text Analytics Final Group Project 
 
 # Inferring Reaction Tags from the IMDB Movie Reviews Dataset
