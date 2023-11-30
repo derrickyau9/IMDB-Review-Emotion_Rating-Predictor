@@ -2,4 +2,4 @@
 
 2. 50k_Full_Data.csv and Merged_Reviews_Tag_Reduced.csv are 2 csv files used to run the final system, namely IMDB_Reaction_Tags_Predictor_Final.ipynb file.
 
-3. Merged_Reviews_Tag_Reduced.csv, Merged_Reviews(2).csv, and Merged_Reviews_Final.csv these 3 csv files are used to run the whole text analystics process, namely IMDB_Reaction_Tags_Predictor.ipynb file. These 3 files are the same. Their different names are because they were created by different group members.
+3. Merged_Reviews_Tag_Reduced.csv, Merged_Reviews(2).csv, and Merged_Reviews_Final.csv these 3 csv files are used to run the whole text analystics process, namely IMDB_Reaction_Tags_Predictor.ipynb file. We have 4 group members, each of us manually labeled 375 reviews,  and in  total we got 1500 labeled reviess. These 3 files are the same. Their different names are because they were created by different group members, they are the same 1500 labeled reviews.
